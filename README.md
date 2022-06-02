@@ -1,4 +1,19 @@
-# Ayush-Portfolio ⚡️ 
+
+<p align="center">
+
+  <a href="https://github.com/AmbaliyaDhruv/portfolio">
+        <img src="https://github.com/Aayush771/Ayush-Portfolio/blob/master/img/profile-pic%20(3).png?raw=true" alt="Logo" width="100" height="100">
+  </a>
+
+  <h1 align="center">Welcome to my Portfolio 👋</h3>
+
+  <p align="center">
+    Personal website showcasing my skills and latest projects!    
+    <br />
+    <br />
+    :round_pushpin:<a href="https://ayushkportfolio.netlify.app/">View Demo</a>
+  </p>
+</p>
 
 <h2 align="center">
   <img src="https://github.com/Aayush771/Ayush-Portfolio/blob/master/img/portfolio.gif?raw=true" alt="Simplefolio" width="600px" />
