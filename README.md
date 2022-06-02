@@ -2,7 +2,7 @@
 <p align="center">
 
   <a href="https://github.com/AmbaliyaDhruv/portfolio">
-        <img src="https://github.com/Aayush771/Ayush-Portfolio/blob/master/img/profile-pic%20(3).png?raw=true" alt="Logo" width="100" height="100">
+        <img src="https://github.com/Aayush771/Ayush-Portfolio/blob/master/img/profile-pic%20(3).png?raw=true" alt="Logo" width="250" height="250">
   </a>
 
   <h1 align="center">Welcome to my Portfolio 👋</h3>
